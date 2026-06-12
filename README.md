@@ -1,5 +1,7 @@
 # ALEX Humanoid Robot
-![ALEX photo](assets/photos/IMG_4289.JPG)
+<!--![ALEX photo](assets/photos/IMG_4289.JPG)-->
+
+<img width=50% src="assets/photos/IMG_4289.JPG" />
 
 A modular, stationary humanoid robot head designed for real-world interaction and public demonstrations. Built with ROS2 Humble, Raspberry Pi 4, and a custom 3D-printed mechanical system.
 
@@ -23,6 +25,8 @@ A modular, stationary humanoid robot head designed for real-world interaction an
 ## What ALEX Does
 
 ALEX detects visitors via face detection, tracks them with a 3-DOF neck mechanism, makes eye contact, blinks naturally, speaks pre-recorded Arabic introductions, and ejects informational cards on trigger. It was designed for sustained operation in crowded exhibition environments.
+
+<a href="https://drive.google.com/file/d/1jjwXgTRpC5rjbwY0UuFfJCBsbQevNujV/view?usp=sharing" title="ALEX Video"><img width=30% src="https://github.com/user-attachments/assets/d43fbd39-2584-430b-bb59-74d504c3ff01" alt="ALEX Video" /></a>
 
 **Demonstrated Behaviors**:
 - Face detection and tracking (Haar cascades + IOU matching)
