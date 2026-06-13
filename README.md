@@ -233,7 +233,7 @@ Alexandria, Egypt
 
 - LinkedIn: [linkedin.com/in/abdelaziz-elmasry-07051997](https://linkedin.com/in/abdelaziz-elmasry-07051997)
 - Email: [Abdelaziz.Ahmed.Elmasry@gmail.com](mailto:Abdelaziz.Ahmed.Elmasry@gmail.com)
-- Portfolio: [github.com/AbdelazizElmasry/portfolio](https://github.com/AbdelazizElmasry/portfolio)
+<!-- - Portfolio: [github.com/AbdelazizElmasry/portfolio](https://github.com/AbdelazizElmasry/portfolio) -->
 
 ---
 
